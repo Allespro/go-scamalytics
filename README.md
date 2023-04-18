@@ -1,5 +1,11 @@
 # go-scamalytics
+<p align="center">
+	<a href="https://golang.org"><img src="https://img.shields.io/badge/made%20with-Go-brightgreen"></a>
+	<a href="https://goreportcard.com/report/github.com/allespro/go-scamalytics"><img src="https://goreportcard.com/badge/github.com/allespro/go-scamalytics"></a>
+</p>
+
 Check IP list on scamalytics.com exlude official API
+
 
 ![Console output](https://raw.githubusercontent.com/Allespro/go-scamalytics/master/img/1.png)
 
